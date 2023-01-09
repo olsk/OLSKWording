@@ -10,6 +10,7 @@ OLSKWordingTypeToSearch: Escribir para buscar
 OLSKWordingTypeToFilter: Escribir para filtrar
 OLSKWordingConfirmText: ¿Est@as segur@?
 OLSKWordingCancelText: Cancelar
+OLSKWordingSubmitText: Enviar
 OLSKWordingDownloadText: Descargar
 OLSKWordingEditText: Editar
 OLSKWordingDebugObjectText: Depurar este objeto

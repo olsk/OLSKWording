@@ -10,6 +10,7 @@ OLSKWordingTypeToSearch: Taper pour chercher
 OLSKWordingTypeToFilter: Taper pour filtrer
 OLSKWordingConfirmText: Êtes-vous sûr.e ?
 OLSKWordingCancelText: Annuler
+OLSKWordingSubmitText: Soumettre
 OLSKWordingDownloadText: Télécharger
 OLSKWordingEditText: Modifier
 OLSKWordingDebugObjectText: Déboguer cet objet
